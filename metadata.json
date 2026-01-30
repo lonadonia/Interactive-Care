@@ -1,0 +1,7 @@
+{
+  "name": "Better Futures Residential Care",
+  "description": "Official website for Better Futures, a professional children's residential care organization focused on trust, safety, and positive outcomes.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
